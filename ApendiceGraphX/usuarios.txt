@@ -1,0 +1,7 @@
+1,Kent,Kent Beck
+2,Fowler,Martin Fowler
+3,Bennekum,Arie van Bennekum
+4,Odersky,Martin Odersky
+5,Gamma,Erich Gamma
+6,Okasaki,Chris Okasaki
+7,Sleator,Daniel Sleator
